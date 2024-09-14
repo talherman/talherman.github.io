@@ -105,7 +105,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .section1 .sectionTitleRule2, .section2 .sectionTitleRule2 {
 	background-color: rgba(208,207,207,1.00);
 	height: 1px;
-	padding: 0px;
+	padding: 0;
 }
 .mainContent .section1 .section1Content {
 	font-family: ProximaNova;
@@ -148,7 +148,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	background-color: rgba(208,207,207,1.00);
 	display: inline-block;
 	text-align: center;
-	margin-top: 0px;
+	margin-top: 0;
 	padding-top: 3%;
 	cursor: pointer;
 }
@@ -191,7 +191,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
   font-family: 'Montserrat', sans-serif;
   position: absolute;
   background-color: #f9f9f9;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   padding: 12px 16px;
   z-index: 1;
   max-width: 45%;
@@ -318,15 +318,15 @@ header .socialNetworkNavBar .socialNetworkNav {
 	text-align: justify;
 	margin-bottom: -15px;
 	width: 100%;
-	margin-left: 0%;
+	margin-left: 0;
 }
 
 .section2 .ul {
-width = 100%;
+width: 100%;
 }
 	
 .section .sectionContentSubTitle{
-	width = 100%;
+	width: 100%;
 }	
 	
 	
@@ -344,7 +344,7 @@ width = 100%;
 .mainContent .externalResourcesNav .externalResources2 {
 	width: 100px;
 	height: 25px;
-	padding-top: 0px;
+	padding-top: 0;
 	margin-bottom: 10px;
 	margin-left: 20%;
 	margin-right: 20%;
@@ -415,7 +415,7 @@ header .socialNetworkNavBar .socialNetworkNav {
 }
 .mainContent .section1 .section1Content {
 	display: inline-block;
-	margin: 0% 0% 0% 0%;
+	margin: 0 0 0 0;
 	font-family: sans-serif;
 	margin-top: 5%;
 	margin-bottom: 5%;
@@ -424,34 +424,34 @@ header .socialNetworkNavBar .socialNetworkNav {
 	clear: both;
 }
 .section2 .section2Content {
-	padding: 0px;
+	padding: 0;
 	font-family: sans-serif;
 	padding-right: 10px;
     padding-left: 5px;
-    padding-bottom: 0px;
+    padding-bottom: 0;
 	margin-top: 5%;
-	margin-bottom: 0%;
-	margin-left: 0%;
+	margin-bottom: 0;
+	margin-left: 0;
 	width: 60%;
 }
 	
 .section2 .sectionContent {
-	padding: 0px;
-	margin-left: 0%;
+	padding: 0;
+	margin-left: 0;
 	font-family: sans-serif;
 	margin-top: 2%;
-	margin-bottom: 0%;
+	margin-bottom: 0;
 	width: 100%;
     float: right;
 }
 	
 	
 .mainContent .externalResourcesNav {
-	margin-left: 0%;
+	margin-left: 0;
 	margin-top: 30px;
 	margin-bottom: 80px;
 	text-align: left;
-	padding-top: 0px;
+	padding-top: 0;
 	padding-left: 5px;
 /*	clear: both;*/
     margin-left: 0%;
@@ -601,4 +601,3 @@ footer .footerNote {
 	font-family: sans-serif;
 }
 }
-© 2021 GitHub, Inc.© 2021 GitHub, Inc.
